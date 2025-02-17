@@ -413,3 +413,6 @@ body {font-family: "Roboto", sans-serif;
             align-items: baseline;
             margin-right: 120px; 
         }
+        .footer-container.container{display: flex;
+            align-items: baseline}
+            .footer-logo-container{margin-right: 120px}
