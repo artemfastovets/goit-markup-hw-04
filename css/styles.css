@@ -169,7 +169,8 @@ body {font-family: "Roboto", sans-serif;
         padding-bottom: 120px;
         
     }
-    
+    .social-lis{display: flex;
+        gap: 24px;}
     
     
     .item-paraghraf { font-size: 16px;
