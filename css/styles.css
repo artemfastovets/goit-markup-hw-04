@@ -174,7 +174,7 @@ body {font-family: "Roboto", sans-serif;
         justify-content: center;
         background-color: #404bbf;}
     .social-lis:hover .social-lis:focus {background-color: #404bbf; }
-
+.item-container:hover .item-container:focus {background-color: #404bbf;}
     .social-link:hover .social-link:focus {background-color: #404bbf; }
     .social-item:hover .social-link:focus {background-color: #404bbf; }
     .social-icon:hover .social-icon:focus {background-color: #404bbf;}
