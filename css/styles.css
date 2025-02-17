@@ -172,7 +172,7 @@ body {font-family: "Roboto", sans-serif;
     .social-lis{display: flex;
         gap: 24px;
         justify-content: center;}
-.team:hover .team:focus {background-color: #404bbf;}
+    .items-list:hover .items-list:focus {background-color: #404bbf;}
     .item-paraghraf { font-size: 16px;
         display: block;
         line-height: 1.5;
