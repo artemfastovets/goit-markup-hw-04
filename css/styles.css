@@ -172,9 +172,9 @@ body {font-family: "Roboto", sans-serif;
     .social-lis{display: flex;
         gap: 24px;
         justify-content: center;}
-    .social-lis:hover .social-lis:focus {background-color: #404bbf; ;}
+    .social-lis:hover .social-lis:focus {background-color: #404bbf; }
 
-    
+    .social-link:hover .social-link:focus {background-color: #404bbf; }
     
     .item-paraghraf { font-size: 16px;
         display: block;
