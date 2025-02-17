@@ -408,3 +408,8 @@ body {font-family: "Roboto", sans-serif;
         .social-link:hover, .social-link:focus {
             background-color: #31d0aa;
         }
+        .social-container {
+            display: flex;
+            align-items: baseline;
+            margin-right: 120px; 
+        }
