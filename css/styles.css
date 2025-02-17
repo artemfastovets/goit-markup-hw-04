@@ -175,7 +175,7 @@ body {font-family: "Roboto", sans-serif;
     .social-lis:hover .social-lis:focus {background-color: #404bbf; }
 
     .social-link:hover .social-link:focus {background-color: #404bbf; }
-    
+    .social-item:hover.social-link:focus {background-color: #404bbf; }
     .item-paraghraf { font-size: 16px;
         display: block;
         line-height: 1.5;
