@@ -168,6 +168,7 @@ body {font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #2e2f42;
         margin-bottom: 8px;
+        padding-top: 32px;
     }
     
     .team-list {
@@ -277,7 +278,7 @@ body {font-family: "Roboto", sans-serif;
         clip: rect(0 0 0 0);
         overflow: hidden;
     }
-    .item-container {padding: 32px 0;
+    .item-container {padding-bottom: 8px;
     display: block;
 
     }
@@ -326,7 +327,8 @@ body {font-family: "Roboto", sans-serif;
     }
     .team-sm-list {display: flex; 
         justify-content: center;
-        gap: 24px;}
+        gap: 24px;
+    padding-bottom: 32px;}
     .team-sm{width: 40px;
         height: 40px;
     }
@@ -343,3 +345,6 @@ body {font-family: "Roboto", sans-serif;
         .link-team:focus{
             background-color: #404bbf
         }
+    .svg-soc{
+    fill:rgba(244, 244, 253, 1);
+    }
