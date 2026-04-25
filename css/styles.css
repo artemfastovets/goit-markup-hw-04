@@ -255,7 +255,12 @@ body {font-family: "Roboto", sans-serif;
     .benefits-list-container{
         display: block;
     }
-    .footer-container {max-width: 264px;}
+    .footer-container {
+    max-width: 264px;
+    display: flex;
+    align-items: baseline;
+    gap: 120px;
+}
     .portfolio {background-color: #ffffff;
         place-items: center;
         padding-top: 120px; padding-bottom: 120px; }
