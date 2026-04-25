@@ -242,11 +242,6 @@ body {font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;}
     .contact-list {color: #434455 }
     .contact-item {color: #434455;}
-    .container {
-        max-width: 1158px;
-        padding: 0 15px;
-        margin: auto;
-    }
     .benefits-container {
         display: flex;
         justify-content: space-between;
